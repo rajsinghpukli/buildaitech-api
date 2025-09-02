@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+python-jose[cryptography]
+pydantic
+openai>=1.30.0
