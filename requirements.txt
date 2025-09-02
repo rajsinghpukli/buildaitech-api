@@ -1,5 +1,6 @@
-fastapi
-uvicorn[standard]
-python-jose[cryptography]
-pydantic
-openai>=1.30.0
+fastapi==0.112.0
+uvicorn[standard]==0.30.5
+openai>=1.40.0
+pydantic>=2.7
+python-multipart
+
